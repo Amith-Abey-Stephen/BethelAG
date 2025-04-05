@@ -1,0 +1,34 @@
+<div class="">
+    <!-- Set 2 -->
+    <div class="grid grid-cols-2 md:grid-cols-6 gap-4 mt-6 auto-rows-[150px]">
+      <!-- Wide -->
+      <div class="col-span-3 row-span-1">
+        <img src="/bethelag 3.jpg" alt="Wide" class="w-full h-full object-cover rounded-lg shadow-md hover:scale-105 transition">
+      </div>
+    
+      <!-- Tall -->
+      <div class="col-span-1 row-span-2">
+        <img src="/gallery/church-inside4.jpg" alt="Tall" class="w-full h-full object-cover rounded-lg shadow-md hover:scale-105 transition">
+      </div>
+    
+      <!-- Landscape -->
+      <div class="col-span-2 row-span-1">
+        <img src="/gallery/mometo-kssamuel.jpg" alt="Landscape" class="w-full h-full object-cover rounded-lg shadow-md hover:scale-105 transition">
+      </div>
+    
+      <!-- Portrait -->
+      <div class="col-span-1 row-span-2">
+        <img src="/gallery/kairos.jpg" alt="Portrait" class="w-full h-full object-cover rounded-lg shadow-md hover:scale-105 transition">
+      </div>
+    
+      <!-- Square -->
+      <div class="col-span-1 row-span-1">
+        <img src="/gallery/kairos-pastors.jpg" alt="Square" class="w-full h-full object-cover rounded-lg shadow-md hover:scale-105 transition">
+      </div>
+    
+      <!-- Large Square -->
+      <div class="col-span-2 row-span-2">
+        <img src="/gallery/ground.jpg" alt="Large" class="w-full h-full object-cover rounded-lg shadow-md hover:scale-105 transition">
+      </div>
+    </div>
+  </div>
